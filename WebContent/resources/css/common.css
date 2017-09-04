@@ -1,0 +1,29 @@
+@CHARSET "UTF-8";
+.gms-text-center{text-align:center;}
+.gms-border-black{border:1px solid black;}
+.gms-width-100pro{width: 100%;}
+.gms-width-30pro{width:30%;}
+.gms-text-deco-none{text-decoration: none;}
+.gms-table-border{border-collapse:collapes;}
+.gms-magin-auto{margin: 0 auto;}
+.gms-list-none{list-style-type: none;}
+.gms-bgcolor-blue{background-color: blue;}
+.gms-bgcolor-red{background-color: red;}
+.gms-inline-block{display: inline-block;}
+.gms-list-none{list-style-type:none;}
+footer div{width: 100%;height: 50px;padding: 10px;}
+a:link {
+    color:black;
+}
+
+a:visited {
+    background-color: cyan;
+}
+
+a:hover {
+    background-color: lightgreen;
+}
+
+a:active {
+    background-color: hotpink;
+} 
